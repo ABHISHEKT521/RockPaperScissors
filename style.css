@@ -17,8 +17,10 @@ img{
     width: 380px;
     margin-top: 20px;
 }
-@media (max-width:520px){
+@media (max-width:450px){
     img{
         margin-top: 60px;
     }
+    div{
+        margin-left: 10px;
 }
